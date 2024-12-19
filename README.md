@@ -5,7 +5,7 @@ Instructions to setup and run project
 
 Project Background Information
 
-"fake Stack Overflow" is best viewed in a 1920 x 1080 (or larger) screen resolution monitor.
+This project is best viewed in a 1920 x 1080 (or larger) screen resolution monitor.
 
 Open a terminal and run: "mongod". Then open another terminal and pull the project code.
 
