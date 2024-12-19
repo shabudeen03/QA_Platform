@@ -1,4 +1,4 @@
-# fakeStackOverflow
+# QA Platform
 Instructions to setup and run project
 
 2-Person Group Project (Similar levels of Collaboration & Effort put in)
